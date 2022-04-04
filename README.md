@@ -21,7 +21,7 @@ contract Tax{
             result = 5*x;
                
         }
-        else if(x>=50000 && x<750000){
+        else if(x>=500000 && x<750000){
             result = 10*x;
         }
         else if(x>=750000 && x<1000000)
