@@ -7,7 +7,7 @@ Any calculations made on the calculator will be stored on the blockchaim, thereb
 
 ## The code
 
-```
+```js
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.7.0 <0.9.0 ;
 contract Tax{
