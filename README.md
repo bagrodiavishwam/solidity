@@ -56,3 +56,4 @@ contract Tax{
     
 }
 ```
+Tax slabs as per info given in: https://economictimes.indiatimes.com/wealth/tax/latest-income-tax-slabs/articleshow/62751981.cms
